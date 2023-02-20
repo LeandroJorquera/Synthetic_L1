@@ -1,1 +1,1 @@
-# synthethic_L1
+# synthetic_L1
